@@ -1,0 +1,68 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f0f0f0;
+	margin: 20px;
+	text-align: center;
+}
+
+h1 {
+	color: #336699;
+}
+
+p {
+	font-size: 16px;
+}
+
+a {
+	color: #336699;
+	text-decoration: none;
+	transition: color 0.3s ease;
+
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #33cccc;
+}
+
+img {
+	border: 2px solid #333;
+	border-radius: 8px;
+}
+ol, ul {
+	text-align:center;
+	list-style-position: inside;
+}
+.dvashu-intro {
+	background-color: #fff8dc;
+	border: 2px solid #e6b0800;
+	border-radius: 8px; 
+	padding: 15px; 
+	font-style: italic;
+	max-width: 600px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.small-img {
+	width: 150px;
+}
+.medium-img {
+	width: 300px;
+}
+.large-img {
+	width: 500px
+}
+.highlight-box {
+	background-color: #e6f7ff;
+	border: 1px solid #00ccff;
+	padding: 10px;
+	margin: 15px auto;
+	max-width: 500px;
+	border-radius: 6px;
+}
+.meal-table {
+	border-collapse: collapse;
+	width: 50%;
+	margin: 0 auto;
+}
